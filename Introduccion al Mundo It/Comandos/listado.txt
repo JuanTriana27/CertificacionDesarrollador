@@ -1,0 +1,8 @@
+Notas.txt
+Nueva carpeta/
+Prueba/
+invierno.txt
+listado.txt
+otoño.txt
+primavera.txt
+verano.txt

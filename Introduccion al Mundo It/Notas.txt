@@ -1,0 +1,48 @@
+Historia de la Informática
+Se remonta a la antigüedad, con el desarrollo de dispositivos como el ábaco en Mesopotamia y china, luego el astrolabio y ábaco chino.
+
+La Era de la Mecánica
+La primer calculadora mecánica creada por Blaise Pascal, luego Charles Badbbage diseño la Maquina Diferencial y la Maquina Analítica.
+
+La Primera Programadora
+Ada Lovelace, colaboro con Badbbage en el desarrollo de la máquina Analitica. Creo el primer algoritmo diseñado para ser procesado por una máquina, lo que la convirtió en la primer programadora.
+
+Inteligencia Artificial
+En 1956, Se acuño el termino "Inteligencia Artificial", se marcó el comienzo de la investigación formal en este campo. John McCarthy, Marvin Minsky, Allen Newell y Herbert Simon sentaron las bases de la IA.
+
+Informática Personal
+En los 70s surgieron las primeras computadoras personales, como el Altair 8800, seguido por el Apple I  y el Apple II de Steve Wozniak y Steve Jobs.
+
+Internet
+En los 60s, ARPANET una red de comunicaciones financiada por EEUU  sentó las bases de lo que mas tarde se convertiría en Internet. Tim Berners-Lee creo la WWW(World Wide Web) en 1989, revolucionando la forma en que compartimos y accedemos a la información.
+
+Empresas de Tecnología
+Microsoft fundada por Bill Gates y Paul Allen en 1975, y Google, fundada por Larry Page y Sergey Brin en 1998, se convirtieron en gigantes de la tecnología que transformaron la informática y la sociedad.
+
+Los Dispositivos Móviles
+Desde los 2000, el iPhone de apple y los dispositivos de Android cambiaron la forma en la que interactuamos con la tecnología, llevando la computación a nuestras manos en forma de teléfonos.
+
+¿Qué es Hardware?
+Básicamente es todo lo físico que tienen las computadoras, los componentes esenciales y los periféricos. Esto varia según las computadoras.
+
+Competentes Esenciales
+Procesador: Cerebro del Ordenador, realiza todas las operaciones del computador.
+
+Memoria RAM: Hace que todo el sistema funciona, gestiona los procesos en su memoria.
+
+Disco duro o SSD: es la unidad de almacenamiento desde el sistema operativo.
+
+Placa Base: competente principal, en el van todos los demás.
+
+Tarjeta Gráfica: Mejora el funcionamiento de los computadores ya que son un complemento para realizar tareas.
+
+¿Qué es Software?
+Es el conjunto de programas, instrucciones y datos necesarios para realizar diversas tareas en el computador.
+
+
+Interfaz de Usuario
+
+Terminal
+
+ 
+

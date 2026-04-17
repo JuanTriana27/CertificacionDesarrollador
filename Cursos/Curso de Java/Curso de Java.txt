@@ -1,0 +1,23 @@
+Curso de Java
+
+Java es un lenguaje de programación de alto nivel, amigable para los desarrolladores. Es multiplataforma, lo que significa que, gracias a la Máquina Virtual de Java (JVM), los programas creados en Java pueden ejecutarse en cualquier sistema operativo. Fue creado en 1995 por James Gosling, originalmente llamado OAC. Hoy en día, muchas empresas utilizan Java para desarrollar sus aplicaciones.
+
+La empresa responsable del soporte y las actualizaciones de Java es Oracle.
+
+¿Qué se necesita para programar en Java?
+Java Development Kit (JDK): Un conjunto de herramientas que permite escribir y compilar código en Java.
+IDE (Entorno de Desarrollo Integrado): Programa que facilita la escritura de código en Java (ejemplo: IntelliJ IDEA, Eclipse, NetBeans).
+
+Conceptos básicos
+
+Definición de una clase:
+public class Main {
+
+Método main:
+public static void main(String[] args) {
+
+public: Modificador de acceso, permite que el método sea accesible desde otras clases.
+static: Define que el método pertenece a la clase, no a una instancia de ella.
+void: Indica que el método no retorna ningún valor.
+
+Nota: Todo lo que no termine con llaves {} debe terminar con un punto y coma ;.

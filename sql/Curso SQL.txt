@@ -1,0 +1,46 @@
+Curso SQL
+
+Diagrama ER
+Entidad - Objeto, o básicamente cualquier cosa que tengamos en la vida real. (Tienda en Linea - Entidades(Clientes, Productos, etc)).  Cuando se encierra en un cuadrado es una entidad.
+
+Atributos - Básicamente son los atributos que tiene una entidad. (Casa - (Tamaño, Ventanas, Puertas, Antigüedad, Propietatio, habitaciones)). se encierra en un ovalo
+
+Atributos Compuestos - Son atributos que básicamente no tienen solo 1 dato, por ejemplo habitaciones, hay una cocina, un baño, etc. que básicamente tienen mas datos dentro.
+
+Atributos Simples - Tienen un dato único, en este caso, el precio de la casa.
+
+Atributos Multivalor - Atributos que tienen mas de un valor, y se encierran con doble circulo
+
+Atributos Derivados - Los podemos obtener con otra información, se puede obtener a partir de otros atributos. Se encierran en ovalo con borde punteado.
+
+Key - Atributo único que tienen las entidades, por ejemplo el numero de identificación de una persona, o la dirección de una casa, numero de casa.
+
+
+Ejercicios.
+Entidad que tenga 5 atributos, 1 único y 4 multivalor.
+
+persona (Cuadrado)
+id_cedula (Circulo Subrayado)
+telefono (Doble circulo)
+mail (Doble circulo)
+edad (Doble circulo)
+altura (Doble circulo)
+
+Ejercicios.
+Encerrar según tipo de dato.
+
+Apellido - atributo simple
+id_empleado - key
+ciudad - atributo simple
+estado - multivalor
+nombre - simple
+código postal - simple
+fecha nacimiento - simple
+edad - derivado
+genero - simple
+estado civil - simple
+n_telefono - simple
+informacion_contacto - compuesto
+mail - simple
+dirección - simple
+habilidades - multivalor
